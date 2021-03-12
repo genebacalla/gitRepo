@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-here, have some another change!
-=======
-changes!
->>>>>>> Stashed changes
-i am the change HAHAHAHAHAHHA!
+i cleared it!
+yes?
