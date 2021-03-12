@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 here, have some another change!
+=======
+changes!
+>>>>>>> Stashed changes
